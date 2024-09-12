@@ -14,15 +14,15 @@ std::cout << sizeof(byte) << '\n'; // 1
 byte.set(1);
 byte.set(2);
 
-std::cout << byte.to_string() << '\n'; // 01100000
+std::cout << byte.to_string() << '\n'; // 01100001
 
 byte.reset(2);
 
-std::cout << byte.to_string() << '\n'; // 01000000
+std::cout << byte.to_string() << '\n'; // 01000001
 
 byte.set(2);
 byte.set(5);
 byte.reset(0);
 
-std::cout << byte.to_string() << '\n'; // 01100100
+std::cout << byte.to_string() << '\n'; // 01100101
 ```
