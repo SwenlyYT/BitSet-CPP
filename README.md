@@ -1,4 +1,4 @@
-# BitSet-C++-
+# BitSet C++
 
 Include
 ```c++
