@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anton\\Documents\\Coding\\C\u002B\u002B\\MyModules\\BitSet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A03621-36B7-4E73-847F-1B4760C7208F}|BitSet\\BitSet.vcxproj|C:\\Users\\Anton\\Documents\\Coding\\C\u002B\u002B\\MyModules\\BitSet\\BitSet\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8A03621-36B7-4E73-847F-1B4760C7208F}|BitSet\\BitSet.vcxproj|solutionrelative:BitSet\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A03621-36B7-4E73-847F-1B4760C7208F}|BitSet\\BitSet.vcxproj|C:\\Users\\Anton\\Documents\\Coding\\C\u002B\u002B\\MyModules\\BitSet\\BitSet\\BitSet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8A03621-36B7-4E73-847F-1B4760C7208F}|BitSet\\BitSet.vcxproj|solutionrelative:BitSet\\BitSet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Anton\\Documents\\Coding\\C\u002B\u002B\\MyModules\\BitSet\\BitSet\\Main.cpp",
+              "RelativeDocumentMoniker": "BitSet\\Main.cpp",
+              "ToolTip": "C:\\Users\\Anton\\Documents\\Coding\\C\u002B\u002B\\MyModules\\BitSet\\BitSet\\Main.cpp",
+              "RelativeToolTip": "BitSet\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T18:16:55.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BitSet.h",
+              "DocumentMoniker": "C:\\Users\\Anton\\Documents\\Coding\\C\u002B\u002B\\MyModules\\BitSet\\BitSet\\BitSet.h",
+              "RelativeDocumentMoniker": "BitSet\\BitSet.h",
+              "ToolTip": "C:\\Users\\Anton\\Documents\\Coding\\C\u002B\u002B\\MyModules\\BitSet\\BitSet\\BitSet.h",
+              "RelativeToolTip": "BitSet\\BitSet.h",
+              "ViewState": "AQIAADcAAAAAAAAAAADgv08AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-11T19:20:54.162Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

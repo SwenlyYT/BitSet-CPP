@@ -1,0 +1,11 @@
+﻿  Main.cpp
+C:\Users\Anton\Documents\Coding\C++\MyModules\BitSet\BitSet\BitSet.h(106,28): warning C4267: 'argument': conversion from 'size_t' to 'uint8_t', possible loss of data
+C:\Users\Anton\Documents\Coding\C++\MyModules\BitSet\BitSet\BitSet.h(77,28): warning C4267: 'initializing': conversion from 'size_t' to 'uint8_t', possible loss of data
+C:\Users\Anton\Documents\Coding\C++\MyModules\BitSet\BitSet\BitSet.h(79,27): warning C4244: 'initializing': conversion from 'double' to 'uint8_t', possible loss of data
+C:\Users\Anton\Documents\Coding\C++\MyModules\BitSet\BitSet\BitSet.h(80,25): warning C4244: '-=': conversion from 'double' to 'uint8_t', possible loss of data
+C:\Users\Anton\Documents\Coding\C++\MyModules\BitSet\BitSet\BitSet.h(59,28): warning C4267: 'initializing': conversion from 'size_t' to 'uint8_t', possible loss of data
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 103 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BitSet.vcxproj -> C:\Users\Anton\Documents\Coding\C++\MyModules\BitSet\x64\Release\BitSet.exe
